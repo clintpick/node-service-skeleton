@@ -1,0 +1,12 @@
+name,dateOfBirth,gender,code,banked
+Oliver Deer,19-08-1954,male,35408190264,true
+Stanley Newton,02-09-1996,male,39609020054,false
+Roger Sparks,27-05-1980,male,38005270507,true
+Kate Potter,10-04-1970,female,47004100066,true
+Anna James,17-10-1996,female,49610170175,true
+Victoria Miller,22-09-1983,female,48309220132,false
+Philip Parker,06-11-1956,male,35611060038,true
+Ryan Cross,10-03-1967,male,35603100106,false
+William West,22-07-1987,male,38707220002,false
+Kate West,06-08-1992,female,49208060120,true
+Marie West,29-03-2015,female,61503290047,false
